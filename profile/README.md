@@ -1,4 +1,4 @@
-# HU Digital Ethics Lab 👋
+# HU Digital Ethics Lab
 
 A collaboration of practitioners, researchers and students about digital ethics in the context of digital innovation.
 
